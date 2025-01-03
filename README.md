@@ -1,8 +1,33 @@
-Conducted thorough Exploratory Data Analysis (EDA) on a multi-class image dataset, including class distribution
-analysis and visualization of sample images.
-• Implemented advanced feature extraction methods such as Histogram of Oriented Gradients (HOG) and color histograms
-to optimize model inputs.
-• Trained and compared multiple machine learning models, including Naive Bayes, Decision Tree, Random Forest, and
-Perceptron, evaluating their performance using accuracy metrics.
-• Enhanced model performance by implementing advanced ensemble methods, specifically XGBoost and LightGBM,
-achieving superior classification results.
+# Multi-Class Image Classification Project
+
+## Overview
+This project focuses on performing comprehensive analysis and classification of a multi-class image dataset. The steps involved include data exploration, advanced feature extraction, machine learning model training, and optimization using ensemble methods.
+
+## Key Features
+- **Exploratory Data Analysis (EDA):**  
+  - Conducted thorough EDA on the dataset.  
+  - Analyzed class distributions and visualized sample images for better understanding.
+
+- **Feature Extraction:**  
+  - Implemented advanced methods such as:  
+    - **Histogram of Oriented Gradients (HOG)**  
+    - **Color Histograms**  
+  - Optimized inputs for machine learning models.
+
+- **Model Training and Evaluation:**  
+  - Trained and compared the performance of the following models:  
+    - Naive Bayes  
+    - Decision Tree  
+    - Random Forest  
+    - Perceptron  
+  - Evaluated model performance using accuracy metrics.
+
+- **Performance Optimization:**  
+  - Enhanced classification results using advanced ensemble methods:  
+    - **XGBoost**  
+    - **LightGBM**
+
+## Results
+Achieved superior classification accuracy by integrating advanced feature extraction and ensemble techniques.
+
+
